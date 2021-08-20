@@ -1,0 +1,6 @@
+C:\Users\lucas\Desktop\balanza\Balanza\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucas\Desktop\balanza\Balanza\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucas\Desktop\balanza\Balanza\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\balanza\Balanza\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\balanza\Balanza\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucas\Desktop\balanza\Balanza\Entidades\obj\Debug\Entidades.pdb
